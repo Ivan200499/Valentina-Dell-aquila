@@ -27,6 +27,9 @@ function App() {
     '/images/portfolio4.jpeg',
     '/images/portfolio5.jpeg',
     '/images/portfolio6.jpeg',
+    '/images/portfolio7.jpeg',
+    '/images/portfolio8.jpeg',
+    '/images/portfolio9.jpeg',   
   ];
   
 
