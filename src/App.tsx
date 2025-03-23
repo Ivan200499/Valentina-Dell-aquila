@@ -92,11 +92,11 @@ function App() {
             </div>
             <div data-aos="fade-up" data-aos-delay="200">
               <h3 className="text-lg sm:text-xl font-light mb-2">Vita</h3>
-              <p className="text-xl sm:text-2xl">70 cm</p>
+              <p className="text-xl sm:text-2xl">69 cm</p>
             </div>
             <div data-aos="fade-up" data-aos-delay="300">
               <h3 className="text-lg sm:text-xl font-light mb-2">Fianchi</h3>
-              <p className="text-xl sm:text-2xl">100 cm</p>
+              <p className="text-xl sm:text-2xl">97 cm</p>
             </div>
             <div data-aos="fade-up" data-aos-delay="400">
               <h3 className="text-lg sm:text-xl font-light mb-2">Altezza</h3>
