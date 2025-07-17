@@ -30,6 +30,9 @@ function App() {
     '/images/portfolio7.jpeg',
     '/images/portfolio8.jpeg',
     '/images/portfolio9.jpeg',   
+'/images/portfolio10.jpeg',
+'/images/portfoli11.jpeg',
+
   ];
   
 
@@ -54,15 +57,20 @@ function App() {
         </div>
       </section>
 
-      {/* Bio Section */}
-      <section className="py-16 sm:py-20 px-4 md:px-8 max-w-4xl mx-auto" data-aos="fade-up">
-        <h2 className="text-2xl sm:text-3xl md:text-4xl font-light mb-8 text-center">Chi Sono</h2>
-        <p className="text-base sm:text-lg leading-relaxed text-neutral-700 text-center">
-          Sono Valentina Dell'Aquila, vengo da Taranto, Puglia, e ho iniziato il mio percorso nel mondo della moda nel 2023, anche se la passione per questo settore è sempre stata con me. Ho partecipato a concorsi provinciali e nazionali, dove ho ottenuto diversi riconoscimenti, tra cui la fascia di Miss Eleganza 2024 al concorso Mondo Sposa Italia, e la fascia di Miss Moda a Un Volto per Foto Modella.
+    {/* Bio Section */}
+<section className="py-16 sm:py-20 px-4 md:px-8 max-w-4xl mx-auto" data-aos="fade-up">
+  <h2 className="text-2xl sm:text-3xl md:text-4xl font-light mb-8 text-center">Chi Sono</h2>
+  <p className="text-base sm:text-lg leading-relaxed text-neutral-700 text-center">
+    Sono Valentina Dell'Aquila, vengo da Taranto, Puglia, e ho iniziato il mio percorso nel mondo della moda nel 2023, anche se la passione per questo settore è sempre stata con me. 
+    Ho partecipato a concorsi provinciali e nazionali, dove ho ottenuto diversi riconoscimenti, tra cui la fascia di Miss Eleganza 2024 al concorso Mondo Sposa Italia e la fascia di Miss Moda a Un Volto per Foto Modella.
+    
+    Nel 2025 sono entrata nella Top 30 di Miss Mondo Italia, ottenendo la fascia speciale di Luca Abete per l'iniziativa #noncifermanessuno. 
+    Nello stesso anno ho partecipato anche al Premio Moda di Matera, un’esperienza che ha arricchito ulteriormente il mio percorso professionale.
 
-          La moda è per me un'espressione di personalità e creatività, e continuo a coltivare questa passione, collaborando con fotografi e brand, con l'obiettivo di costruire una carriera solida e far crescere il mio percorso in questo affascinante settore.
-        </p>
-      </section>
+    La moda è per me un'espressione di personalità e creatività, e continuo a coltivare questa passione collaborando con fotografi e brand, con l'obiettivo di costruire una carriera solida e far crescere il mio percorso in questo affascinante settore.
+  </p>
+</section>
+
 
       {/* Portfolio Grid */}
       <section className="py-12 sm:py-16 px-4 md:px-8 bg-white" data-aos="fade-up">
@@ -88,7 +96,7 @@ function App() {
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 sm:gap-8 text-center">
             <div data-aos="fade-up" data-aos-delay="100">
               <h3 className="text-lg sm:text-xl font-light mb-2">Seno</h3>
-              <p className="text-xl sm:text-2xl">90 cm</p>
+              <p className="text-xl sm:text-2xl">93 cm</p>
             </div>
             <div data-aos="fade-up" data-aos-delay="200">
               <h3 className="text-lg sm:text-xl font-light mb-2">Vita</h3>
